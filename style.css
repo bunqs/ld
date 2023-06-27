@@ -9,5 +9,6 @@ body{
   left:0;
   right:0;
   margin:0 auto;
-  width:110px
+  width:80px;
+  transform:traslateX(50%,-50%)
 }
